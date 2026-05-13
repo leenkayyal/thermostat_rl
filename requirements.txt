@@ -1,0 +1,8 @@
+gymnasium==0.29.1
+stable-baselines3==2.3.2
+numpy==1.26.4
+pandas==2.2.2
+matplotlib==3.9.0
+requests==2.32.3
+ollama==0.2.1
+pytest==8.2.0

@@ -1,0 +1,5 @@
+Here is the report:
+
+Your indoor temperature was 11.7°C, while the outdoor temperature was 18.9°C. The setpoint of 24.0°C resulted in 160 out of 168 hours of outside comfort, with a total energy cost of $81.9000.
+
+To improve tomorrow's performance, consider adjusting your setpoint to 23.5°C to reduce heating usage while maintaining indoor comfort levels.
