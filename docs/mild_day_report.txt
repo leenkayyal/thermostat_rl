@@ -1,9 +1,3 @@
-=== MILD DAY COACH REPORT ===
+Here is the report:
 
-Indoor: 19.4°C  Outdoor: 13.2°C  Setpoint: 21.0°C  HVAC: heating
-
-Today showed persistent under-heating: 105 of 175 hours (60%) were outside the 20–22°C comfort band — 79 hours too cold and 26 hours too warm from HVAC overshoot. Total energy cost reached $61.25, split between $21.00 at peak rate and $40.25 off-peak. The HVAC cycled heavily throughout the episode, which explains why the indoor temperature oscillated rather than holding steady near the setpoint.
-
-For tomorrow, I recommend raising the off-peak setpoint by 1°C to 22.0°C to pre-warm the room before the 14:00–18:00 peak window. This would reduce the 79 hours spent below 20°C without meaningfully increasing peak-rate spending.
-
-Best, Your Smart Thermostat AI Coach
+Your indoor temperature is at 11.7°C, slightly below your setpoint of 24.0°C, indicating that heating may need to be adjusted accordingly. You spent 77 hours outside comfort during the day, which translates to a 95% comfort level, but you still experienced 83 hours of being too warm. Considering your energy costs, $81.9000 was incurred so far, with peak-rate at $36.7500 and off-peak rate at $45.1500. Tomorrow's goal: consider reducing your setpoint by 2°C to optimize heating efficiency while maintaining comfort.
